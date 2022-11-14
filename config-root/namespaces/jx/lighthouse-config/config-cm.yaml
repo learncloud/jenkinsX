@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - learncloud/jenkinsX
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.172.21.2.205.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
